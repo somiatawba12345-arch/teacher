@@ -1,0 +1,1 @@
+Dr. Mohamed Hassan is a Saudi-based tutor specialized in Tahseeli, Qudrat, and SAAT exams with 12 years of experience. Holds a Master’s degree in Chemistry from Al-Azhar University. Offers private lessons, real exam practice, and proven results. The website includes services, testimonials, and WhatsApp contac
