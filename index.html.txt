@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>مدرس تحصيلي وقدرات و SAAT في السعودية</title>
+    <meta name="description" content="صفحة تعريفية لمدرس تحصيلي وقدرات و SAAT ذو خبرة في السعودية. دروس خصوصية ونتائج مميزة." />
+    <meta name="keywords" content="مدرس تحصيلي خصوصي, مدرس قدرات, مدرس SAAT, دروس تحصيلي خاصة, قدرات في السعودية, مدرس تحصيلي في الرياض, تحصيلي وقدرات, معلم تحصيلي, دروس خصوصية في السعودية" />
+
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+        header { background: #0066cc; color: white; padding: 40px 20px; text-align: center; }
+        section { padding: 40px 20px; max-width: 900px; margin: auto; }
+        h1, h2 { margin-bottom: 20px; }
+        .services, .testimonials { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .contact-btn { background: #0066cc; color: white; padding: 12px 20px; text-decoration: none; border-radius: 6px; display: inline-block; margin-top: 10px; }
+        footer { background: #222; color: white; text-align: center; padding: 20px; }
+        /* Floating WhatsApp Icon */
+        .whatsapp-btn { position: fixed; bottom: 20px; left: 20px; background: #25D366; width: 55px; height: 55px; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 10px rgba(0,0,0,0.3); }
+        .whatsapp-btn img { width: 35px; height: 35px; }
+        @media (max-width: 600px) { header { padding: 30px 10px; } }
+    </style>
+    <!-- Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "د. محمد حسن",
+      "jobTitle": "مدرس تحصيلي وقدرات و SAAT",
+      "description": "مدرس تحصيلي وقدرات وSAAT بخبرة 12 سنة في المملكة العربية السعودية.",
+      "alumniOf": "جامعة الأزهر",
+      "url": "https://example.com",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+966548419658",
+        "contactType": "WhatsApp"
+      }
+    }
+    </script>
+</head>
+<body>
+    <header>
+        <h1>د. محمد حسن — مدرس تحصيلي وقدرات و SAAT في السعودية</h1>
+        <p>خبرة في تدريس التحصيلي والقدرات و SAAT لأكثر من 5 سنوات مع نتائج ممتازة.</p>
+    </header>
+
+    <!-- نبذة تعريفية -->
+    <section>
+        <h2>نبذة عني</h2>
+        <p>أنا د. محمد حسن، حاصل على ماجستير في الكيمياء من جامعة الأزهر، ولدي خبرة تزيد عن 12 عامًا في تدريس التحصيلي والقدرات وSAAT داخل المملكة العربية السعودية، أقدم دروسًا فردية ومجموعات صغيرة لتحقيق أفضل النتائج. منهجية تدريس مبسطة ومجربة تساعد الطلاب على فهم المفاهيم بسرعة وثقة.</p>
+    </section>
+
+    <!-- الخدمات -->
+    <section>
+        <h2>الخدمات</h2>
+        <div class="services">
+            <div class="card"><h3>دروس تحصيلي</h3><p>شرح مفصل لجميع أجزاء التحصيلي مع نماذج اختبار.</p></div>
+            <div class="card"><h3>قدرات</h3><p>تدريب مكثف على القسمين الكمي واللفظي.</p></div>
+            <div class="card"><h3>SAAT</h3><p>تحضير شامل لاجتياز اختبار SAAT بدرجات عالية.</p></div>
+        </div>
+    </section>
+
+    <!-- آراء الطلاب -->
+    <section>
+        <h2>آراء الطلاب</h2>
+        <div class="testimonials">
+            <div class="card"><p>"مدرس رائع! ساعدني أحقق درجة عالية في التحصيلي." – طالب A</p></div>
+            <div class="card"><p>"طريقة شرحه واضحة جداً ومرتب" – طالبة B</p></div>
+            <div class="card"><p>"أفضل مدرس قدرات تعاملت معه!" – طالب C</p></div>
+        </div>
+    </section>
+
+    <!-- تواصل -->
+    <section>
+        <h2>تواصل</h2>
+        <p>للتواصل عبر البريد الإلكتروني:</p>
+        <a class="contact-btn" href="mailto:teacher@example.com">أرسل رسالة</a>
+    </section>
+
+    <footer>
+        <p>© 2025 جميع الحقوق محفوظة</p>
+    </footer>
+
+    <!-- WhatsApp Floating Icon -->
+    <a class="whatsapp-btn" href="https://wa.me/966548419658" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
+    </a>
+</body>
+</html>
